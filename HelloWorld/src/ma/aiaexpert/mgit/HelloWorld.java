@@ -3,8 +3,8 @@ package ma.aiaexpert.mgit;
 public class HelloWorld {
 
 	public static void main(String[] args) {
-		System.out.println("Hello Mohame dto master Git");
-		System.out.println("Pushed ouuuuf");
+		HelloWorldService hws = new HelloWorldService();
+		hws.sayHello("Latifa");
 	}
 
 }
