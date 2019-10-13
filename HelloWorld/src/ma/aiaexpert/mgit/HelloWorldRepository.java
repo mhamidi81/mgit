@@ -5,4 +5,8 @@ public class HelloWorldRespository {
 	public boolean addMessage(String message) {
 		// add some code here
 	}
+
+	public boolean removeMessage(String message) {
+		// add some code here
+	}
 }
